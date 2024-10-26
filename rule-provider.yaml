@@ -1,7 +1,0 @@
-rule-providers:
-  Rule-provider-cfg37ac5a:
-    type: http
-    behavior: domain
-    path: ./rule-providers/Rule-provider-cfg37ac5a.yaml
-    url: http://iwmc1.top
-    interval: 86400
